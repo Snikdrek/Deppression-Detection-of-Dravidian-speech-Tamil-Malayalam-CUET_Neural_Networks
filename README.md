@@ -699,10 +699,8 @@ ensemble_logits = (0.5*h + 0.3*x + 0.2*w)  # Custom weights
 
 ## Authors & License
 
-- **Team:** VEL (Depression Detection Team)
-- **License:** See LICENSE file
-- **Status:** Production-ready
-
+- **Team:** CUET_Neural_Networks
+- **Authors:** Shuva Dey,Abir Dey 
 ---
 
 **Last Updated:** March 2026
